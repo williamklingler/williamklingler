@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi!
+Thanks for checking out my GitHub profile. Check out RedditBets and open an issue if you think of any improvements :) 
+#### 🚀
 <!--
 **williamklingler/williamklingler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
