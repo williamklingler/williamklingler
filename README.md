@@ -1,5 +1,5 @@
 ### Hi!
-#### I'm a software engineer and University of Waterloo Student 
+#### I'm a software engineer and University of Waterloo CS student
 🚀 I'm currently working on revamping my personal website.
 Check out RedditBets and open an issue if you think of any improvements :) 
 <!--
