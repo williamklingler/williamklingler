@@ -1,7 +1,5 @@
 Computer Science student @ University of Waterloo
 
-Love C++ and Javascript
-
 <!-- ### Hi!
 #### I'm a software engineer and University of Waterloo CS student
 🚀 I'm currently working on revamping my personal website.
